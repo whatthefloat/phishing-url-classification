@@ -62,4 +62,4 @@ Results are specific to the PhreshPhish corpus and have not yet been tested for 
 ## Author
 
 Azra Altundaş — Department of Statistics, Yıldız Technical University
-Advisor: Gülder Kemalbay
+
